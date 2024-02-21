@@ -1,0 +1,10 @@
+/Users/matt/Desktop/apex-springboot-inventory/src/main/java/com/apex/eqp/inventory/repositories/InventoryRepository.java
+/Users/matt/Desktop/apex-springboot-inventory/src/main/java/com/apex/eqp/inventory/services/ProductService.java
+/Users/matt/Desktop/apex-springboot-inventory/src/main/java/com/apex/eqp/inventory/helpers/ProductFilter.java
+/Users/matt/Desktop/apex-springboot-inventory/src/main/java/com/apex/eqp/inventory/controllers/InventoryController.java
+/Users/matt/Desktop/apex-springboot-inventory/src/main/java/com/apex/eqp/inventory/services/RecalledProductService.java
+/Users/matt/Desktop/apex-springboot-inventory/src/main/java/com/apex/eqp/inventory/repositories/RecalledProductRepository.java
+/Users/matt/Desktop/apex-springboot-inventory/src/main/java/com/apex/eqp/inventory/InventoryApplication.java
+/Users/matt/Desktop/apex-springboot-inventory/src/main/java/com/apex/eqp/inventory/entities/Product.java
+/Users/matt/Desktop/apex-springboot-inventory/src/main/java/com/apex/eqp/inventory/controllers/RecalledProductController.java
+/Users/matt/Desktop/apex-springboot-inventory/src/main/java/com/apex/eqp/inventory/entities/RecalledProduct.java
